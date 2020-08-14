@@ -1,0 +1,16 @@
+Julio
+------------------------------------------------------------
+martes 7.
+-------------------
+Alejandro y Jorge:
+Se ha realizado un analisis inicial de la organización del proyecto y se han hecho las entidades.
+
+miercoles 8.
+-------------------
+Reparto de tareas y visualización general de algunos aspectos para desarrollar el proyecto.
+Alejandro:
+Realizado el controlador user con sus servicios y repositorios.
+
+Jorge:
+A punto de finalizar el controlador de messages con sus servicios y repositorios.
+(No se sube porque no está completamente probado)
